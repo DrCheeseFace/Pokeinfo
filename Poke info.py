@@ -146,7 +146,7 @@ def display(attributes):
     print("GENERATION: ",attributes[4])
     print("POKEDEX ENTRY: ",attributes[5],"\n")
     
-    display_window(attributes)
+    display_window(attributes) # what tf did i do here and why
 
 
 #this function is a liiiiiiiitle too long        
